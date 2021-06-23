@@ -1,7 +1,7 @@
 # Carlos Muñoz  
 [![Linkedin Badge](https://img.shields.io/badge/-cmunozbustamante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/cmunozbustamante/)](https://www.linkedin.com/in/cmunozbustamante/)
 
-## Hello there 👋, (General KLenovi...) 
+## Hello there 👋, (General Kenobi...) 
 I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, read medium posts, share memes on instagram. 
 
 - 🔭 I’m currently working on SAP SCP UI5 Apps 
