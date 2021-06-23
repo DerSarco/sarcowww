@@ -9,3 +9,5 @@ I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, r
 - 💬 Ask me about: memes, games or anime.
 -  ⚡ Languages: Javascript, Abap, a few things of JAVA.
 -  Colaborator in Discord Server [Hola Mundo](https://discord.gg/pjAykXA6KK) Nicolas Schurmann believer.
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarcowww&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sarcowww" /></p>
