@@ -1,5 +1,5 @@
 # Carlos Muñoz  
-[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/cmunozbustamante/)](https://www.linkedin.com/in/cmunozbustamante/)
+[![Linkedin Badge](https://img.shields.io/badge/-cmunozbustamante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/cmunozbustamante/)](https://www.linkedin.com/in/cmunozbustamante/)
 
 ## Hello there 👋, (General KLenovi...) 
 I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, read medium posts, share memes on instagram. 
