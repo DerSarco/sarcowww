@@ -8,3 +8,4 @@ I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, r
 - 🌱 I’m currently learning React.JS and Vue
 - 💬 Ask me about: memes, games or anime
 -  ⚡ Languages: Javascript, Abap, a few things of JAVA.
+-  Colaborator in Discord Channel [Hola Mundo](https://discord.gg/pjAykXA6KK)
