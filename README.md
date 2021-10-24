@@ -4,8 +4,8 @@
 ## Hello there 👋, (General Kenobi...) 
 I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, read medium posts, write things in [dev.to](https://dev.to) share memes on instagram. 
 
-- 🔭 I’m currently working on SAP SCP UI5 Apps.
-- 🌱 I’m currently learning Kotlin.
+- 🔭 I’m currently unemployed xd.
+- 🌱 I’m currently learning Kotlin for Android Development.
 - 💬 Ask me about: memes, games or anime.
 -  ⚡ Languages: Javascript, Abap, a few things of JAVA and now Kotlin.
 -  Administrator in Discord Server [Hola Mundo](https://discord.gg/pjAykXA6KK) Nicolas Schurmann believer.
