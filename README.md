@@ -10,4 +10,6 @@ I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, r
 - ⚡ Languages: Javascript, Abap, Java and now all my atention is on Kotlin.
 - 👨🏽‍💼 Administrator in Discord Server [Hola Mundo](https://discord.gg/pjAykXA6KK) Nicolas Schurmann believer.
 
+You love Kotlin in Android? Add me on Discord and chat with me :) -> Der Sarco#0256 😊
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarcowww&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sarcowww" /></p>
