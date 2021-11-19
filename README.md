@@ -8,7 +8,7 @@ I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, r
 - 🌱 I’m currently learning Kotlin for Android Development (i have a JetBrains Kotlin Certificate 😊).
 - 💬 Ask me about: memes, games or anime.
 - ⚡ Languages: Javascript, Abap, Java and now all my atention is on Kotlin.
-- 👨🏽‍💼 Administrator in Discord Server [Hola Mundo](https://discord.gg/pjAykXA6KK) Nicolas Schurmann believer.
+- 👨🏽‍💼 Administrator in Discord Server [Hola Mundo](https://discord.gg/pjAykXA6KK) (10K PEOPLE OMG!) Nicolas Schurmann believer.
 
 You love Kotlin in Android? Add me on Discord and chat with me :) -> Der Sarco#0256 😊
 
