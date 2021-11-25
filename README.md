@@ -12,9 +12,16 @@ I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, r
 
 You love Kotlin in Android? Add me on Discord and chat with me :) -> Der Sarco#0256 😊
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarcowww)](https://github.com/anuraghazra/github-readme-stats) [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/7442524)](https://stackoverflow.com/users/7442524/carlos-mu%c3%b1oz)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarcowww&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarcowww" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarcowww&layout=compact" />
+</a>
+[HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/7442524)](https://stackoverflow.com/users/7442524/carlos-mu%c3%b1oz)
 
 
 
