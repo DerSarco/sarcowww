@@ -19,7 +19,7 @@ You love Kotlin in Android? Add me on Discord and chat with me :) -> Der Sarco#0
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarcowww" />
 </a>
 
-[[HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/7442524)](https://stackoverflow.com/users/7442524/carlos-mu%c3%b1oz)
+[![sarcowww StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/7442524)](https://stackoverflow.com/users/7442524/carlos-mu%c3%b1oz)
 
 
 
