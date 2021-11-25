@@ -12,4 +12,5 @@ I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, r
 
 You love Kotlin in Android? Add me on Discord and chat with me :) -> Der Sarco#0256 😊
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarcowww&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sarcowww" /></p>
+[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/7442524)](https://stackoverflow.com/users/7442524/carlos-mu%c3%b1oz)
+
