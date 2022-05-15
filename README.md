@@ -5,7 +5,6 @@
 I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, read medium posts, write things in [dev.to](https://dev.to) share memes on instagram. 
 
 - 📱 I’m Android Developer SSR At Globant
-- 🌱 I’m currently learning Kotlin for Android Development (i have a JetBrains Kotlin Certificate 😊).
 - 💬 Ask me about: memes, games or anime.
 - ⚡ Languages: Javascript, Abap, Java and now all my atention is on Kotlin.
 - 👨🏽‍💼 Administrator in Discord Server [Hola Mundo](https://discord.gg/pjAykXA6KK) (12K PEOPLE OMG!) Nicolas Schurmann believer.
